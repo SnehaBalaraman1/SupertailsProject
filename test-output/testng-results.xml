@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-24T12:23:43 IST" name="Suite" finished-at="2023-07-24T12:28:16 IST" duration-ms="272438">
+    <groups>
+    </groups>
+    <test started-at="2023-07-24T12:23:43 IST" name="Test" finished-at="2023-07-24T12:28:16 IST" duration-ms="272438">
+      <class name="tests.Productselectiontest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Productselectiontest@8462f31]" started-at="2023-07-24T12:24:14 IST" name="setup" finished-at="2023-07-24T12:24:28 IST" duration-ms="14196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:tests.Productselectiontest@8462f31]" started-at="2023-07-24T12:24:28 IST" name="test" finished-at="2023-07-24T12:25:58 IST" duration-ms="89934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- tests.Productselectiontest -->
+      <class name="tests.Suptailslogintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Suptailslogintest@231f98ef]" started-at="2023-07-24T12:23:43 IST" name="setup" finished-at="2023-07-24T12:23:54 IST" duration-ms="11147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:tests.Suptailslogintest@231f98ef]" started-at="2023-07-24T12:23:54 IST" name="test" finished-at="2023-07-24T12:24:14 IST" duration-ms="19409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- tests.Suptailslogintest -->
+      <class name="tests.Purchasetest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.Purchasetest@24569dba]" started-at="2023-07-24T12:25:58 IST" name="setup" finished-at="2023-07-24T12:26:07 IST" duration-ms="8777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test()[pri:0, instance:tests.Purchasetest@24569dba]" started-at="2023-07-24T12:26:07 IST" name="test" finished-at="2023-07-24T12:28:16 IST" duration-ms="128908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- tests.Purchasetest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
